@@ -1,4 +1,6 @@
-Hallo saya Farhan, Saya seorang Mahasiswa
+Hallo saya Farhan, Saya seorang Mahasiswa yang sedang belajar 
+
+
 
 <p align="left">
 <a href="https://github.com/inipunyaku">
