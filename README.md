@@ -1,6 +1,7 @@
 Hallo saya Farhan, Saya seorang Mahasiswa yang sedang belajar 
 
-
+<br>
+### Berikut Statistik Github Saya: ###
 
 <p align="left">
 <a href="https://github.com/inipunyaku">
